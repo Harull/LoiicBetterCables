@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LoiicBetterCables\\Module.LoiicBetterCables.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LoiicBetterCables\\LoiicCableComponent.cpp.obj"
+	]
+}
