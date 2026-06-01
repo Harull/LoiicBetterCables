@@ -1,4 +1,4 @@
-# LoiicBetterCables 🪢🧶
+# LoiicBetterCables 🖇🧶
 
 ## An advanced rope and cable simulation plugin for Unreal Engine 5.6 ⏩
 
