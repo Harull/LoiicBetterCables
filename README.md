@@ -19,8 +19,9 @@ LoiicBetterCables was created to bridge that gap and provide a more gameplay-ori
 
 ## Images 🖼
 ![CableCollisions](/Images/Cable_collisions_example.png)
-![CableSwinging](/Images/Cable_swinging_example.png)
-
+![CableImpulse](/Images/Cable_impulse_example.png)
+![CableAttachments](/Images/Cable_attachments.png)
+![CableComponentPreview](/Images/Cable_component_preview.png)
 
 ## Authors 📝
 - [@Harull](https://github.com/Harull)
